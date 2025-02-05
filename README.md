@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Sajnin14/Sajnin14/refs/heads/main/DALL%C2%B7E%202025-01-08%2016.51.47%20-%20A%20high-quality%2C%20wide-angle%20digital%20illustration%20of%20a%20modern%20workspace%20featuring%20a%20young%20woman%20coding%20a%20web%20application%20using%20the%20MERN%20stack%20(MongoDB%2C%20.webp"  />
+  <img height="200" src="https://i.ibb.co.com/0VjY5Pzb/Mst-Sajnin-Akhter-Saima.png"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Frontend Developer | Junior Developer</h3>
+<h3 align="left">Frontend Developer</h3>
 
 ###
 
@@ -65,6 +65,13 @@
 ###
 
 <div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajnin14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajnin14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
