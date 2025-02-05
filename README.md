@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌐 Frontend Developer <br> ⚛️ Working with React <br> 🚀 Crafting intuitive and responsive web interfaces<br>💡 Passionate about user experience and modern web technologies<br>📚 Lifelong learner exploring the latest in JavaScript and design systems<br>🎨 Advocate for clean, maintainable code<br>📚 I'm currently learning MERN backend<br>🎯 Goals: Full-Stack Developer</p>
+<p align="left">🌐 Junior Developer | MERNStack Developer | Frontend Developer <br> ⚛️ Working with React <br> 🚀 Crafting intuitive and responsive web interfaces<br>💡 Passionate about user experience and modern web technologies<br>📚 Lifelong learner exploring the latest in JavaScript and design systems<br>🎨 Advocate for clean, maintainable code<br>📚 I'm currently learning MERN backend<br>🎯 Goals: Full-Stack Developer</p>
 
 ###
 
